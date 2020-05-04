@@ -30,7 +30,7 @@ spec:
         app: admin
     spec:
       containers:
-      - image: tufinim/bali-admin:21
+      - image: tufinim/bali-admin:22
         name: admin
         ports:
         - containerPort: 8080
